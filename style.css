@@ -1,0 +1,174 @@
+body{
+    font-family: 'Exo 2', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+}
+h1{
+    font-size: 60px;
+    color: gold;
+    text-align: center;
+
+}
+h2{
+    color: rgb(3, 241, 23);
+    text-shadow: black 5px 5px 10px;
+    font-weight: 700;
+    font-family: ;
+    font-size: 40px;
+    text-align: center;
+}
+p{
+    background-color: ;
+    border-left: 10px solid darkgoldenrod  ;
+    border-width: 10px;
+    margin-left: 25px;
+    padding-left: 10px;
+   
+}
+.orange-clr {
+    color: #f73100;
+}
+.flexo {
+    display: flex; 
+    margin-bottom: 50px;
+   
+   
+}
+.half-width{
+    
+    width: 100%;
+}
+.half-width img{
+    width: 70%;
+    margin-left: 18%;
+    margin-top: 25px;
+    /*background-color: rgb(255, 255, 255);
+    box-shadow: black 5px 10px 25px 5px;
+    padding: 10px;*/
+    
+}
+.web.deve{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(43, 43, 230), cyan);
+    border-image-slice: 1;
+    
+}
+.link-tag{
+    border-left: 7px solid;
+    color: rgb(255, 175, 2);
+    text-shadow: rgb(0, 0, 0) 3px 3px 5px;
+    font-size: 45px;
+    
+    
+    text-decoration: none;
+     
+}
+.linking-tag{
+    font-size: 25px;
+}
+.headline{
+    color: blanchedalmond;
+    background-color: black;
+    display: inline-flex;
+    margin-left: 280px;
+    padding: 10px;
+    box-shadow: rgb(223, 219, 34) 2px 5px 30px 15px;
+    border-radius: 9px;
+}
+.pixo img{
+    width: 600px;
+    float: left;
+    margin: 10px 27px 20px 20px;
+}
+.all-deal a{
+    background-color: rgb(236, 236, 57);
+    
+    text-align: center;
+    text-decoration: none;
+    margin-left: 42%;
+    display: inline-block;
+    color: rgb(0, 0, 0);
+    text-shadow: rgb(235, 229, 195) 3px 3px 5px;
+    font-size: 25px;
+    padding: 5px;
+    
+
+}
+.last-part{
+    
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    width: 1300px;
+    margin-left: 10px;
+    height: 250px;
+    border-radius: 15px;
+    
+}
+#gh{
+    margin: 10px 20px;
+    padding: 20px;
+    width: 250px;
+    float: left;
+    
+}
+#jh{
+    margin: 10px 20px;
+    padding: 20px;
+    width: 250px;
+    float: left;
+
+}
+#hh{
+    margin: 10px 20px;
+    padding: 20px;
+    width: 250px;
+    float: left;
+}
+h5 a{
+    color: chartreuse;
+    text-decoration: none;
+}
+.social{
+   
+}
+.fab{
+    list-style: none;
+    margin-top: 5px;
+    text-align: right;
+    
+    
+    
+}
+.posi{
+    display: inline-block;
+    padding: 28px;
+    padding-left: 15px;
+    
+    
+}
+.posi h3{
+    margin-left: 57px;
+}
+.fa-facebook{
+    color: rgb(0, 122, 236);
+}
+.fa-instagram{
+    color: crimson;
+}
+.fa-twitter{
+    color: rgb(11, 144, 252);
+}
+.social li{
+    display: inline-block;
+
+    padding-left: 15px;
+} 
+.copyright{
+    text-align: left;
+    margin: 10px;
+    
+}  
+
+
+    
+
+
